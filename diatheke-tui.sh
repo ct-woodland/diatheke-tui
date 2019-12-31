@@ -923,6 +923,7 @@ case $CHOICE in
 			setModules # Requery modules if user cancled.
 		fi
 	fi
+	
 	;;
 	"11)") exit
 	;;
